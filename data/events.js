@@ -15,6 +15,12 @@ const events = [
    title:"The LLM Revolution in Materials Science: From Data Extraction to Crystal Design",speaker:"Dr. Taylor Sparks"},
   {date:"2026-10-13",time:"11:00 am",place:"W1005 Ketcham",type:"Seminar",
    title:"The Environments We Create: How Engineering Culture Shapes Student Mental Health and Support",speaker:"Dr. Sarah Wilson"},
+  {date:"2026-10-20",time:"11:00 am",place:"W1005 Ketcham",type:"Seminar",
+   title:"Radiation Medical Physics at Mizzou: Research and CAMPEP Program Development",speaker:"Dr. Rongxiao Zhang"},
+  {date:"2026-11-17",time:"11:00 am",place:"W1005 Ketcham",type:"Seminar",
+   title:"Fibrin-centric therapeutics to address bleeding, thrombosis and wound healing",speaker:"Dr. Ashley Brown"},
+  {date:"2026-12-06",time:"11:00 am",place:"W1005 Ketcham",type:"Seminar",
+   title:"Understanding Nanocrystal Assembly and Growth: Colloidal Interactions and Populations Balance Theory",speaker:"Dr. Jaewon Lee"},
   {date:"TBA",time:"6:00 pm",place:"Lafferre Hall W2012E",type:"Social",
    title:"Let Us Chat Pizza Party",speaker:""}
 ];
