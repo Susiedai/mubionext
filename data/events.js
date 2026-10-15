@@ -21,6 +21,6 @@ const events = [
    title:"Fibrin-centric therapeutics to address bleeding, thrombosis and wound healing",speaker:"Dr. Ashley Brown"},
   {date:"2026-12-06",time:"11:00 am",place:"W1005 Ketcham",type:"Seminar",
    title:"Understanding Nanocrystal Assembly and Growth: Colloidal Interactions and Populations Balance Theory",speaker:"Dr. Jaewon Lee"},
-  {date:"TBA",time:"6:00 pm",place:"Lafferre Hall W2012E",type:"Social",
+  {date:"2026-11-04",time:"5:30 pm",place:"Lafferre Hall W2012E",type:"Social",
    title:"Let Us Chat Pizza Party",speaker:""}
 ];
