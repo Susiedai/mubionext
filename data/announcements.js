@@ -11,7 +11,7 @@
 
 const announcements = [
   {featured:true, title:"Let Us Chat Pizza Party: Wednesday, November 4",
-   text:"Welcome! Join us at 5:30 pm in Lafferre Hall, Room W2012E.", until:"2026-11-04"},
+   text:"Welcome! Join us at 5:30 pm in Lafferre Hall, Room C2201.", until:"2026-11-04"},
   {text:"The CUAHSI Water Science Exchange, “Water in Working Landscapes,” comes to the University of Missouri November 12–14. Registration closes October 29.",
    link:"https://www.cuahsi.org/community/water-science-exchange", linkText:"Event details", until:"2026-11-14"},
   {text:"Spring 2027 registration begins October 7. Talk with your advisor about your spring schedule before you register.", until:"2026-11-30"}
