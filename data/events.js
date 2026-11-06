@@ -24,5 +24,7 @@ const events = [
   {date:"2026-11-04",time:"5:30 pm",place:"Lafferre Hall C2201",type:"Social",
    title:"Let Us Chat Pizza Party",speaker:""},
   {date:"2026-11-12",time:"All day",place:"University of Missouri",type:"Conference",
-   title:"CUAHSI Water Science Exchange: Water in Working Landscapes (November 12–14)",speaker:""}
+   title:"CUAHSI Water Science Exchange: Water in Working Landscapes (November 12–14)",speaker:""},
+  {date:"2026-11-10",time:"11:00 am",place:"Lafferre Hall",type:"Career",
+   title:"U.S. Senate Internship Opportunities for Engineering Students",speaker:"Morgan Corder, Director of Field Operations for U.S. Senator Eric Schmitt"}
 ];
