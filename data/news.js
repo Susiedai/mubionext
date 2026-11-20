@@ -9,9 +9,6 @@
    ================================================================ */
 
 const news = [
-  {date:"2026-10-15",faculty:"somavat",title:"Pavel Somavat promoted to associate professor",
-   body:"Mizzou's annual recognition of newly promoted faculty and service milestones for 2025-26 includes Somavat, promoted to associate professor in food, nutrition and exercise sciences in the College of Agriculture, Food and Natural Resources. He teaches and advises in biological engineering, where his food engineering work includes recovering natural colorants and other high-value compounds from crops such as purple corn.",
-   source:["Show Me Mizzou","https://showme.missouri.edu/2026/mizzou-celebrates-2025-26-newly-promoted-faculty-milestone-anniversaries/"]},
   {date:"2026-08-17",faculty:"aloysius",title:"Geospatial Science Camp introduces middle schoolers to mapping and drones",
    body:"Mizzou Engineering hosted eight STEM camps for young students over the summer, among them a Geospatial Science Camp for grades 6-8. Campers built interactive maps, analyzed satellite imagery, and explored drones, working on projects about gathering local data and using it to make informed decisions. Aloysius, who is featured in the camp's coverage, said geospatial technology shapes fields from water resources and food security to urban development.",
    source:["Mizzou Engineering","https://engineering.missouri.edu/2026/future-engineers-practice-missouri-method-at-summer-camps/"]},
