@@ -26,5 +26,29 @@ const events = [
   {date:"2026-11-12",time:"All day",place:"University of Missouri",type:"Conference",
    title:"CUAHSI Water Science Exchange: Water in Working Landscapes (November 12–14)",speaker:""},
   {date:"2026-11-10",time:"11:00 am",place:"Lafferre Hall",type:"Career",
-   title:"U.S. Senate Internship Opportunities for Engineering Students",speaker:"Morgan Corder, Director of Field Operations for U.S. Senator Eric Schmitt"}
+   title:"U.S. Senate Internship Opportunities for Engineering Students",speaker:"Morgan Corder, Director of Field Operations for U.S. Senator Eric Schmitt"},
+
+  /* University academic calendar, Fall 2026 and Spring 2027 (MU Registrar) */
+  {date:"2026-11-20",time:"All day",place:"",type:"Deadline",
+   title:"Graduation application priority deadline for December 2026 graduates",speaker:""},
+  {date:"2026-11-20",time:"All day",place:"",type:"Registration",
+   title:"Last day of early registration by appointment for Spring 2027",speaker:""},
+  {date:"2026-11-21",time:"All day",place:"",type:"Academic",
+   title:"Thanksgiving recess begins close of day (November 21–29)",speaker:""},
+  {date:"2026-11-30",time:"8:00 am",place:"",type:"Academic",
+   title:"Classwork resumes after Thanksgiving recess",speaker:""},
+  {date:"2026-12-07",time:"All day",place:"",type:"Deadline",
+   title:"Last day to withdraw from a course or from the term",speaker:""},
+  {date:"2026-12-11",time:"All day",place:"",type:"Academic",
+   title:"Fall semester classwork ends",speaker:""},
+  {date:"2026-12-14",time:"All day",place:"",type:"Exams",
+   title:"Final examination week (December 14–18)",speaker:""},
+  {date:"2026-12-18",time:"All day",place:"",type:"Academic",
+   title:"Fall semester ends; Commencement Weekend (December 18–20)",speaker:""},
+  {date:"2027-01-11",time:"All day",place:"",type:"Registration",
+   title:"Regular registration for Spring 2027 (January 11–15)",speaker:""},
+  {date:"2027-01-19",time:"8:00 am",place:"",type:"Academic",
+   title:"Spring 2027 classwork begins",speaker:""},
+  {date:"2027-01-26",time:"All day",place:"",type:"Deadline",
+   title:"Last day to register, add, or change sections",speaker:""}
 ];
